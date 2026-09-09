@@ -1,9 +1,6 @@
-README for the contactless-keyring package
-=====================================
+# contactless-keyring package
 
-
-Introduction
-------------
+## Introduction
 
 Wiren Board uses these keys to sign releases that are stored on https://deb.wirenboard.com.
 
